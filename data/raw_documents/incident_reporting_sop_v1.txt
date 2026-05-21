@@ -1,0 +1,273 @@
+================================================================
+NORTHSTAR ANALYTICS GROUP
+INCIDENT REPORTING STANDARD OPERATING PROCEDURE
+================================================================
+
+Document ID:      SOC-SOP-0418
+Department:       Operations / Information Security
+Version:          1.0
+Effective Date:   March 18, 2025
+Owner:            Director of Security Operations
+Co-Owner:         Director of Workplace Operations
+Classification:   Internal Use Only
+Related Policies: IT-POL-0203 (IT Security), IT-POL-0211
+                  (Device Usage), IT-POL-0224 (Access Control),
+                  DPO-POL-0309 (Data Privacy), HR-POL-0061
+                  (Remote Work), HR-POL-0042 (Leave)
+
+================================================================
+1. PURPOSE
+================================================================
+
+This Standard Operating Procedure ("SOP") defines how
+incidents are identified, reported, triaged, and escalated at
+Northstar Analytics Group ("Northstar" or "the Company"). It
+provides a single, consistent reporting path for security,
+privacy, and workplace incidents, ensuring that the
+appropriate response functions are engaged promptly and that
+obligations under the IT Security Policy (IT-POL-0203), Data
+Privacy Policy (DPO-POL-0309), Access Control Policy
+(IT-POL-0224), and Device Usage Policy (IT-POL-0211) are met.
+
+================================================================
+2. SCOPE
+================================================================
+
+This SOP applies to all employees, contractors, interns, and
+third parties who work for or on behalf of Northstar,
+regardless of location or device. It covers incidents
+affecting Company information systems, data assets, personnel,
+facilities, and supporting infrastructure. Local statutory or
+regulatory reporting requirements supersede this SOP where
+they impose stricter or faster obligations.
+
+================================================================
+3. WHAT COUNTS AS AN INCIDENT
+================================================================
+
+An incident is any unplanned event that has caused, or has the
+potential to cause, harm to Northstar's people, customers,
+data, systems, or facilities. Incidents are categorized into
+three types for routing purposes:
+
+   - Security incident:  Affects the confidentiality,
+                         integrity, or availability of Company
+                         information systems
+   - Privacy incident:   Involves the unauthorized access,
+                         disclosure, alteration, or loss of
+                         personal or Confidential data
+   - Workplace incident: Affects the physical safety,
+                         well-being, or working conditions of
+                         personnel or visitors
+
+An event may fall into more than one category, in which case
+all applicable reporting paths must be followed
+simultaneously. When in doubt, employees should report the
+event; under-reporting is treated as a more serious concern
+than over-reporting.
+
+================================================================
+4. SECURITY INCIDENT EXAMPLES
+================================================================
+
+Examples of reportable security incidents include, but are
+not limited to:
+
+   - Lost or stolen Company device (laptop, phone, tablet,
+     hardware security key, or removable media)
+   - Suspected account compromise (unexpected MFA prompts,
+     unrecognized login locations, password change emails
+     not initiated by the user)
+   - Malware infection or suspicious software behavior on a
+     Company device
+   - Unauthorized physical access to a Company facility or
+     restricted area
+   - Unauthorized configuration changes to Company systems
+   - Discovery of unapproved software or unauthorized network
+     equipment in use
+
+================================================================
+5. PRIVACY INCIDENT EXAMPLES
+================================================================
+
+Examples of reportable privacy incidents include, but are not
+limited to:
+
+   - Email containing personal or customer data sent to the
+     wrong recipient
+   - Loss of a printed Confidential or Restricted document
+   - Accidental sharing of customer reports with an
+     unauthorized internal or external party
+   - Unauthorized export, download, or screenshot of customer
+     data
+   - Discovery that personal data has been stored on a
+     personal device, personal cloud service, or personal
+     email account
+   - Receipt of a data subject complaint alleging mishandling
+     of personal information
+
+================================================================
+6. WORKPLACE INCIDENT EXAMPLES
+================================================================
+
+Examples of reportable workplace incidents include, but are
+not limited to:
+
+   - Injury or near-miss at a Company facility or while
+     performing Company business
+   - Injury sustained by a remote employee during scheduled
+     work hours
+   - Property damage, fire, flood, or environmental hazard
+     affecting a Company facility
+   - Threats, harassment, or violence directed at personnel
+     or visitors
+   - Medical emergencies on Company premises
+   - Building security failures (propped doors, tailgating,
+     malfunctioning access controls)
+
+================================================================
+7. REPORTING TIMELINES
+================================================================
+
+All incidents must be reported using the following timelines,
+measured from the moment of discovery:
+
+   - Lost or stolen Company device:        Immediately, no
+                                            later than 1 hour
+   - Active or in-progress cyber incident: Immediately, no
+                                            later than 1 hour
+   - Workplace incident involving injury:  Immediately, no
+                                            later than 1 hour
+   - All other security incidents:         Within 24 hours
+   - Privacy incidents:                    Within 24 hours
+   - Non-injury workplace incidents:       Within 24 hours
+
+Regulatory notification clocks for personal data breaches,
+which in many jurisdictions require notification to
+authorities within 72 hours, are managed by the Data
+Protection Office in accordance with DPO-POL-0309. Employees
+are not responsible for assessing regulatory obligations;
+their responsibility is to report promptly.
+
+================================================================
+8. REPORTING CHANNELS
+================================================================
+
+Incidents must be reported through the channel corresponding
+to their primary category. Where an incident spans categories,
+report through the most urgent channel first and rely on the
+intake teams to engage the others.
+
+   - Security incidents:  Security Operations Center (SOC)
+                          Hotline: +1 (415) 555-0911
+                          Portal:  security.northstaranalytics.internal
+   - Privacy incidents:   Data Protection Office
+                          Email:   privacy@northstaranalytics.com
+                          Portal:  privacy.northstaranalytics.internal
+   - Workplace incidents: People Operations Service Desk and
+                          Workplace Operations
+                          Email:   incidents@northstaranalytics.com
+                          Phone:   +1 (415) 555-0188
+
+Employees must not investigate suspected cyber incidents on
+their own. Do not click suspicious links to "test" them, do
+not log in to suspected phishing pages, do not run unfamiliar
+files, and do not attempt to remove malware from a device.
+Unauthorized investigation can destroy forensic evidence and
+expand the scope of an incident.
+
+================================================================
+9. MANAGER RESPONSIBILITIES
+================================================================
+
+Managers who are notified of an incident by a team member
+must:
+
+   - Confirm that the incident has been logged through the
+     appropriate channel; if not, assist the employee in
+     submitting the report immediately
+   - Refrain from instructing the employee to delay reporting
+     for any reason, including pending internal review
+   - Support the employee through the response process and
+     ensure they are not penalized for good-faith reporting
+   - Engage their own management chain for incidents that may
+     affect customer commitments or public reputation
+
+Managers may not close, dismiss, or downgrade incidents
+without authorization from the relevant intake function.
+
+================================================================
+10. IT RESPONSIBILITIES
+================================================================
+
+The Security Operations Center is responsible for the intake,
+triage, containment, eradication, and recovery phases of
+security incidents in accordance with the IT Security Policy
+(IT-POL-0203). IT responsibilities include:
+
+   - Acknowledging incident reports within 30 minutes for
+     Severity 1 and 2 incidents and within 4 hours for lower
+     severities
+   - Preserving forensic evidence and maintaining chain of
+     custody
+   - Coordinating with the Data Protection Office where
+     personal data is involved
+   - Coordinating with Access Control administrators
+     (IT-POL-0224) to revoke or rotate credentials as needed
+   - Producing a post-incident review for all Severity 1 and
+     2 incidents within 10 business days of closure
+
+================================================================
+11. HR RESPONSIBILITIES
+================================================================
+
+People Operations is responsible for the response to
+workplace incidents, in coordination with Workplace
+Operations for facility-related matters. HR responsibilities
+include:
+
+   - Ensuring injured employees receive appropriate medical
+     attention and managing any workers' compensation process
+   - Supporting employees affected by harassment, violence,
+     or psychological harm, including access to the Employee
+     Assistance Program
+   - Coordinating with Legal where incidents may have
+     regulatory or litigation implications
+   - Maintaining incident records in accordance with
+     statutory retention requirements
+
+================================================================
+12. ESCALATION PROCESS
+================================================================
+
+Incidents are escalated based on severity and potential
+impact:
+
+   - Severity 3 (Low):      Handled by intake function;
+                            standard reporting
+   - Severity 2 (Medium):   Director-level notification
+                            within 4 hours
+   - Severity 1 (High):     Executive notification within 1
+                            hour; cross-functional incident
+                            response team convened
+   - Severity 0 (Critical): Immediate CEO and Board
+                            notification; external counsel
+                            and communications engaged
+
+Privacy incidents involving customer data are escalated to
+the Compliance function regardless of severity, for
+assessment against contractual and regulatory obligations.
+Cross-functional response is led by the on-call Incident
+Commander assigned by the Security Operations Center.
+
+================================================================
+13. REVISION HISTORY
+================================================================
+
+Version 1.0  |  March 18, 2025    |  Initial publication
+Version 0.6  |  February 20, 2025 |  Final draft for review
+Version 0.2  |  January 8, 2025   |  Cross-functional review
+
+================================================================
+END OF DOCUMENT - SOC-SOP-0418
+================================================================

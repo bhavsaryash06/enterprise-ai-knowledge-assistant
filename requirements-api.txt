@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+python-multipart
+python-dotenv
+pydantic-settings
+sqlalchemy
+openai
+qdrant-client
+langgraph
+langsmith
+pypdf
+pdfplumber

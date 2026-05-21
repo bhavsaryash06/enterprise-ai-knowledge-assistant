@@ -1,0 +1,276 @@
+================================================================
+NORTHSTAR ANALYTICS GROUP
+TRAVEL AND EXPENSE POLICY
+================================================================
+
+Document ID:      FIN-POL-0123
+Department:       Finance
+Version:          1.0
+Effective Date:   April 21, 2025
+Owner:            Vice President of Finance
+Co-Owner:         Director of Travel Operations
+Classification:   Internal Use Only
+Related Policies: FIN-POL-0117 (Expense and Reimbursement),
+                  HR-POL-0042 (Leave), HR-POL-0061 (Remote
+                  Work), IT-POL-0203 (IT Security), DPO-POL-0309
+                  (Data Privacy)
+
+================================================================
+1. PURPOSE
+================================================================
+
+This policy defines the standards governing business travel
+booked or expensed at Northstar Analytics Group ("Northstar"
+or "the Company"). It is a companion policy to the Expense
+and Reimbursement Policy (FIN-POL-0117) and provides the
+detailed rules that apply specifically to travel-related
+expenses. Where this policy and FIN-POL-0117 address the same
+topic, the more specific provision of this policy controls
+for travel; for all non-travel expenses, FIN-POL-0117
+controls.
+
+================================================================
+2. SCOPE
+================================================================
+
+This policy applies to all full-time and part-time regular
+employees of Northstar who travel for business purposes,
+including domestic and international travel, single-day
+trips, and multi-day engagements. Contractors and temporary
+workers are governed by their engagement agreements unless
+otherwise stated. Local statutory requirements and customer
+contractual travel terms supersede this policy where they
+impose stricter or more specific rules.
+
+================================================================
+3. BUSINESS TRAVEL APPROVAL
+================================================================
+
+All business travel must be pre-approved by the employee's
+direct manager before any bookings are made. Approval
+requests are submitted through the Concur Travel module and
+must include:
+
+   - Business purpose and expected outcomes
+   - Travel dates and destinations
+   - Estimated total cost, including airfare, lodging,
+     ground transportation, and meals
+   - Any customer or partner counterparties involved
+
+Travel expected to exceed USD 2,500 in total cost requires
+department head approval in addition to manager approval.
+International travel additionally requires review by Travel
+Operations for visa, insurance, and duty-of-care purposes,
+and must be submitted at least 21 calendar days in advance
+where practical. Bookings made before approval is granted are
+made at the employee's own risk and may not be reimbursable.
+
+================================================================
+4. AIRFARE RULES
+================================================================
+
+Airfare must be booked through the Company's designated
+travel platform whenever possible to ensure rate compliance,
+duty-of-care tracking, and policy enforcement. The following
+rules apply:
+
+   - Economy class is the standard for all flights regardless
+     of duration
+   - Premium economy may be selected for flights with
+     scheduled flying time exceeding 6 hours, at the
+     traveler's discretion
+   - Business class is permitted only for flights with
+     scheduled flying time exceeding 8 hours and requires
+     department head approval
+   - First class is not reimbursable under any circumstances
+   - Travelers should select the lowest reasonable fare,
+     considering total trip cost and scheduling constraints,
+     not solely the cheapest available ticket
+   - Personal travel may be combined with business travel
+     provided the Company pays no more than it would for the
+     business-only itinerary; the cost comparison must be
+     documented at the time of booking
+
+Changes or cancellations for personal reasons are not
+reimbursable.
+
+================================================================
+5. HOTEL RULES
+================================================================
+
+Lodging must be booked at standard business-class properties
+within established city rate caps published in the Travel
+Rate Schedule. The following rules apply:
+
+   - Travelers should select rooms at or below the city rate
+     cap; rates exceeding the cap require manager approval
+     and written justification
+   - Room upgrades, in-room entertainment, spa services,
+     mini-bar charges, and similar discretionary items are
+     not reimbursable
+   - In-room internet, parking, and reasonable laundry
+     services for trips exceeding 5 nights are reimbursable
+   - Personal lodging arrangements, including stays with
+     friends or family, are not reimbursable, though
+     reasonable courtesy gifts up to USD 50 may be expensed
+     in lieu of hotel costs
+   - Cancellation fees due to schedule changes initiated by
+     the Company or the customer are reimbursable;
+     cancellations for personal reasons are not
+
+================================================================
+6. MEAL REIMBURSEMENT
+================================================================
+
+Meal expenses are reimbursable up to the following daily
+limits, inclusive of tax and gratuity, when the traveler is
+away from their home location on business:
+
+   - Breakfast:  up to USD 25
+   - Lunch:      up to USD 30
+   - Dinner:     up to USD 60
+   - Daily cap:  USD 115
+
+For international travel, regional adjustments to these
+limits are published in the Travel Rate Schedule. Meals
+provided by the conference, hotel, or customer are not
+separately reimbursable. Group meals where the traveler hosts
+colleagues or customers follow the per-attendee limits above
+unless the engagement qualifies as approved client
+entertainment.
+
+Alcohol is not reimbursable as a meal expense under any
+circumstances. Limited alcohol may be reimbursable as part of
+pre-approved client entertainment, subject to the rules in
+FIN-POL-0117.
+
+================================================================
+7. GROUND TRANSPORTATION
+================================================================
+
+Reimbursable ground transportation includes airport transfers,
+taxis, ride-share services, public transit, rental cars, and
+mileage for personal vehicle use on business trips. The
+following rules apply:
+
+   - Standard ride-share categories are reimbursable; premium
+     or luxury tiers are not reimbursable except where
+     standard service is unavailable and the situation is
+     documented
+   - Rental cars are limited to mid-size or smaller; larger
+     vehicles require manager approval and a documented
+     business reason such as group travel or equipment
+     transport
+   - Personal vehicle mileage is reimbursable at the
+     prevailing IRS or equivalent regional rate published in
+     the Travel Rate Schedule
+   - Chauffeur services and private car services are not
+     reimbursable
+   - Daily commuting expenses to the employee's regular work
+     location are not reimbursable
+
+================================================================
+8. RECEIPT REQUIREMENTS
+================================================================
+
+Itemized receipts are required for all travel expenses of USD
+25 or more, consistent with FIN-POL-0117 Section 7. Receipts
+must show vendor, date, itemized charges, payment method, and
+total. Hotel folios must be itemized and clearly identify any
+non-reimbursable charges. Missing receipts require a written
+explanation submitted as part of the expense claim and
+require Finance Operations approval; the Missing Receipt
+Affidavit referenced in FIN-POL-0117 is limited to two
+occurrences per employee per calendar year and counts toward
+the same limit regardless of expense type.
+
+================================================================
+9. EXPENSE SUBMISSION DEADLINES
+================================================================
+
+Travel expenses must be submitted through the Concur Expense
+system within 30 calendar days of trip completion. Claims
+submitted between 31 and 60 days require written
+justification and department head approval. Claims submitted
+beyond 60 days will not be reimbursed except in documented
+exception cases. End-of-fiscal-year travel completed in
+December must be submitted no later than January 10 of the
+following year. Travelers who anticipate delayed submission
+due to extended travel or absence should consult their
+manager and Finance Operations in advance.
+
+================================================================
+10. NON-REIMBURSABLE EXPENSES
+================================================================
+
+In addition to the items identified throughout this policy
+and in FIN-POL-0117 Section 4, the following travel-related
+expenses are not reimbursable:
+
+   - First-class airfare and unauthorized cabin upgrades
+   - Luxury or premium-tier ride-share, rental, or
+     chauffeured services
+   - Alcohol outside of pre-approved client entertainment
+   - Personal travel insurance beyond the Company-provided
+     coverage
+   - Travel expenses for spouses, partners, family members,
+     or unaccompanied minors
+   - Lost or damaged personal items, including baggage not
+     covered by airline reimbursement
+   - Traffic citations, parking violations, and toll
+     evasion charges
+   - In-flight purchases unrelated to business work, including
+     entertainment packages and duty-free goods
+
+================================================================
+11. APPROVAL LIMITS
+================================================================
+
+Travel expense approval authority follows the structure
+defined in FIN-POL-0117 Section 8:
+
+   - Up to USD 500:            Direct manager
+   - USD 501 to USD 2,500:     Department head
+   - USD 2,501 to USD 10,000:  Vice President of Finance
+   - Over USD 10,000:          Chief Financial Officer
+
+Approval thresholds apply to total trip cost as well as
+individual expense claims. Splitting a single trip into
+multiple claims to remain below an approval threshold is
+prohibited.
+
+================================================================
+12. EXCEPTIONS
+================================================================
+
+Exceptions to this policy may be granted in cases of
+documented business necessity, medical accommodation, or
+extraordinary circumstances such as flight disruptions and
+safety concerns. All exceptions must be requested in writing
+and approved by the Vice President of Finance. Exceptions
+are recorded in the Finance exception log and do not
+establish precedent.
+
+================================================================
+13. ESCALATION CONTACT
+================================================================
+
+Questions, disputes, or escalations regarding this policy
+should be directed to:
+
+   Travel Operations and Finance Service Desk
+   Email:   travel-ops@northstaranalytics.com
+   Phone:   +1 (415) 555-0260
+   Owner:   Vice President of Finance
+
+================================================================
+14. REVISION HISTORY
+================================================================
+
+Version 1.0  |  April 21, 2025    |  Initial publication
+Version 0.6  |  March 25, 2025    |  Final draft for review
+Version 0.3  |  February 12, 2025 |  Tax and audit review
+
+================================================================
+END OF DOCUMENT - FIN-POL-0123
+================================================================

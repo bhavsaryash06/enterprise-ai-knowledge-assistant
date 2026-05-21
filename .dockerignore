@@ -1,0 +1,13 @@
+.venv
+__pycache__
+.pytest_cache
+.mypy_cache
+.git
+.gitignore
+.env
+logs
+*.log
+*.db
+data/raw_documents
+data/processed_documents
+frontend/.streamlit

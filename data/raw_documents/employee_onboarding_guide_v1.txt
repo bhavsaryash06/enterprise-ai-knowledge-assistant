@@ -1,0 +1,284 @@
+================================================================
+NORTHSTAR ANALYTICS GROUP
+EMPLOYEE ONBOARDING GUIDE
+================================================================
+
+Document ID:      HR-GDE-0074
+Department:       Human Resources
+Version:          1.0
+Effective Date:   April 1, 2025
+Owner:            Director of People Operations
+Co-Owner:         Head of Talent Acquisition
+Classification:   Internal Use Only
+Related Policies: HR-POL-0042 (Leave), HR-POL-0061 (Remote
+                  Work), IT-POL-0203 (IT Security), IT-POL-0211
+                  (Device Usage), IT-POL-0224 (Access Control),
+                  SOC-SOP-0418 (Incident Reporting), DPO-POL-0309
+                  (Data Privacy)
+
+================================================================
+1. PURPOSE
+================================================================
+
+This guide defines the standard process for onboarding new
+hires at Northstar Analytics Group ("Northstar" or "the
+Company"). It establishes a consistent experience across
+departments and locations, ensures that new employees are
+productive and compliant from their start date, and aligns
+onboarding activities with the Company's security, privacy,
+and access control commitments. It is intended for use by
+hiring managers, People Operations partners, IT, and new
+hires themselves.
+
+================================================================
+2. SCOPE
+================================================================
+
+This guide applies to all full-time and part-time regular
+employees joining Northstar in any global office, including
+fully remote and hybrid hires. Contractor and intern
+onboarding follows a parallel process documented separately
+by Talent Operations. Regional onboarding addenda may
+supplement this guide where local statutory requirements
+apply.
+
+================================================================
+3. PRE-BOARDING STEPS
+================================================================
+
+Pre-boarding begins once an offer letter is accepted and
+continues through the day before the start date. During this
+period:
+
+   - Talent Acquisition issues the offer letter, background
+     check authorization, and pre-boarding portal access
+   - People Operations creates the employee record in Workday
+     and triggers downstream provisioning workflows
+   - The hiring manager submits the System Access Request
+     (see Section 7) at least 10 business days before the
+     start date
+   - IT provisions Company equipment so that it is assigned
+     and ready before the employee starts work; remote hires
+     receive equipment via prepaid logistics with delivery
+     confirmation at least 2 business days before start
+   - The hiring manager prepares a 30/60/90-day plan and
+     identifies an onboarding buddy
+   - For office-based hires, Workplace Operations issues a
+     building access badge in accordance with IT-POL-0224
+
+================================================================
+4. FIRST DAY TASKS
+================================================================
+
+The new hire's first day focuses on welcome, basic
+provisioning, and the start of compliance activities. Standard
+first-day items include:
+
+   - Welcome session with the hiring manager and onboarding
+     buddy
+   - Workday self-service login and initial profile review
+   - Activation of Company laptop, single sign-on credentials,
+     and the multi-factor authentication enrollment process
+     in accordance with the IT Security Policy (IT-POL-0203,
+     Section 4)
+   - Acknowledgement of the Code of Conduct and the
+     Acceptable Use Statement
+   - Introduction to the team and review of working norms,
+     including hybrid attendance expectations under the
+     Remote Work Policy (HR-POL-0061)
+   - Review of the new hire's 30/60/90-day plan with the
+     manager
+
+The first day should not include access to customer data,
+production systems, or any Restricted information, regardless
+of role.
+
+================================================================
+5. FIRST WEEK TASKS
+================================================================
+
+By the end of the first week, the new hire should have
+completed:
+
+   - All mandatory HR documentation (see Section 9)
+   - Security Awareness training (see Section 10)
+   - Initial role-specific system access activation through
+     single sign-on
+   - Manager-led walkthrough of team tools, repositories, and
+     documentation
+   - Introductory meetings with at least three
+     cross-functional partners identified by the hiring
+     manager
+   - Completion of the new-hire feedback survey on Day 5
+
+Customer-facing or data-handling roles should additionally
+complete the Data Privacy Foundations module before being
+granted access to any customer data, as required by
+DPO-POL-0309.
+
+================================================================
+6. REQUIRED TRAINING
+================================================================
+
+All new hires must complete the following training modules
+during their first 30 days:
+
+   - Security Awareness: Within 5 business days of start
+   - Code of Conduct and Ethics: Within 10 business days
+   - Data Privacy Foundations: Within 10 business days
+   - Anti-Harassment and Inclusion: Within 30 days
+   - Incident Reporting Overview (SOC-SOP-0418): Within 30
+     days
+   - Role-specific compliance modules: As assigned by the
+     hiring manager
+
+Training completion is tracked in the Learning Management
+System. Failure to complete Security Awareness within 5
+business days results in automatic suspension of system
+access pending completion, as required by IT-POL-0203.
+
+================================================================
+7. SYSTEM ACCESS REQUESTS
+================================================================
+
+System access must be requested by the hiring manager through
+the Access Request Portal, not by the new hire. Access is
+granted on the basis of role, demonstrated business need, and
+the principle of least privilege as defined in the Access
+Control Policy (IT-POL-0224). Standard role templates exist
+for common positions and should be used wherever possible to
+reduce provisioning errors.
+
+   - Standard access requests are processed within 3 business
+     days
+   - Access to Confidential or Restricted systems requires
+     data owner approval and may take up to 5 business days
+   - Privileged access (administrator, infrastructure, or
+     production) requires CISO-delegated approval and is
+     granted only after completion of role-specific privileged
+     access training
+
+Access provisioned before the start date is held in an
+inactive state and activated automatically on Day 1.
+
+================================================================
+8. EQUIPMENT SETUP
+================================================================
+
+Company equipment must be assigned before the employee starts
+work. Standard issue includes a Company laptop, charger,
+headset, and hardware security key. Hybrid and remote hires
+receive equipment by prepaid logistics with tracking provided
+to the hiring manager and the new hire. All issued equipment
+is recorded in the asset management system in accordance with
+the Device Usage Policy (IT-POL-0211). Home office equipment
+reimbursement requests are governed by the Expense and
+Reimbursement Policy and require manager approval before
+purchase. New hires must not connect personal peripherals to
+Company systems unless those peripherals were purchased from
+an approved vendor or have received individual IT approval as
+described in IT-POL-0203, Section 6.
+
+================================================================
+9. HR DOCUMENTATION
+================================================================
+
+HR forms must be completed within the first 3 business days.
+Required documentation includes:
+
+   - Employment eligibility verification (I-9 or regional
+     equivalent)
+   - Tax withholding forms
+   - Direct deposit and payroll setup
+   - Benefits enrollment elections (or deferral to the open
+     enrollment window)
+   - Emergency contact information
+   - Confidentiality and intellectual property agreements
+   - Acknowledgement of the Employee Handbook and core
+     policies
+
+Forms are submitted through the Workday self-service portal.
+People Operations reviews submissions within 2 business days
+and contacts the new hire for any required corrections.
+
+================================================================
+10. SECURITY TRAINING
+================================================================
+
+Security Awareness training is a mandatory module covering
+phishing recognition and reporting, password and MFA hygiene,
+device security, data classification, and incident reporting.
+The training must be completed within 5 business days of the
+start date. Completion is a prerequisite for continued access
+to Company systems beyond the initial provisioning window;
+incomplete training triggers automatic access suspension
+managed by the Security Operations Center.
+
+Role-specific security training is assigned based on system
+access; for example, employees granted privileged access
+complete additional modules before access is activated.
+
+================================================================
+11. MANAGER RESPONSIBILITIES
+================================================================
+
+Hiring managers are accountable for the success of the
+onboarding experience. Manager responsibilities include:
+
+   - Submitting the System Access Request at least 10
+     business days before the start date
+   - Confirming equipment delivery for remote hires
+   - Preparing the 30/60/90-day plan and assigning an
+     onboarding buddy
+   - Holding daily check-ins during the first week and
+     weekly check-ins through Day 90
+   - Monitoring training completion and intervening promptly
+     where deadlines are at risk
+   - Confirming role-appropriate access following
+     least-privilege principles and removing any access that
+     is not required
+
+================================================================
+12. NEW HIRE RESPONSIBILITIES
+================================================================
+
+New hires are responsible for actively engaging in the
+onboarding process. New hire responsibilities include:
+
+   - Completing all required HR documentation within 3
+     business days
+   - Completing Security Awareness training within 5 business
+     days
+   - Completing all other required training within assigned
+     deadlines
+   - Safeguarding Company equipment and credentials from the
+     moment of receipt
+   - Reporting any onboarding issues, missing access, or
+     security concerns to the hiring manager and the
+     appropriate intake function under SOC-SOP-0418
+   - Asking questions early; onboarding is the best time to
+     clarify expectations
+
+================================================================
+13. ESCALATION CONTACT
+================================================================
+
+Questions, delays, or escalations regarding onboarding should
+be directed to:
+
+   People Operations Service Desk
+   Email:   people-ops@northstaranalytics.com
+   Phone:   +1 (415) 555-0188
+   Owner:   Director of People Operations
+
+================================================================
+14. REVISION HISTORY
+================================================================
+
+Version 1.0  |  April 1, 2025      |  Initial publication
+Version 0.5  |  March 6, 2025      |  Final draft for review
+Version 0.2  |  January 24, 2025   |  Cross-functional review
+
+================================================================
+END OF DOCUMENT - HR-GDE-0074
+================================================================

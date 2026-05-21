@@ -1,0 +1,189 @@
+[
+  {
+    "id": "eval_001",
+    "question": "Can I get reimbursed for a home office monitor?",
+    "category": "finance_reimbursement",
+    "expected_behavior": "answer",
+    "expected_answer_points": [
+      "home office monitor may be reimbursable",
+      "manager approval is required before purchase",
+      "monitor reimbursement limit applies"
+    ],
+    "expected_source_documents": [
+      "Finance Reimbursement Policy V1",
+      "Remote Work Policy V1"
+    ],
+    "should_escalate": false
+  },
+  {
+    "id": "eval_002",
+    "question": "Can company pay for my desk setup?",
+    "category": "finance_reimbursement",
+    "expected_behavior": "answer",
+    "expected_answer_points": [
+      "home office equipment may be reimbursable",
+      "desk or chair reimbursement limits may apply",
+      "manager approval is required"
+    ],
+    "expected_source_documents": [
+      "Finance Reimbursement Policy V1",
+      "Remote Work Policy V1"
+    ],
+    "should_escalate": false
+  },
+  {
+    "id": "eval_003",
+    "question": "How quickly should I report a lost company laptop?",
+    "category": "incident_reporting",
+    "expected_behavior": "answer",
+    "expected_answer_points": [
+      "lost or stolen devices must be reported immediately",
+      "security or incident reporting process should be followed",
+      "IT or security team should be notified"
+    ],
+    "expected_source_documents": [
+      "Device Usage Policy V1",
+      "Incident Reporting Sop V1",
+      "It Security Policy V1"
+    ],
+    "should_escalate": false
+  },
+  {
+    "id": "eval_004",
+    "question": "Can I store customer data on my personal laptop?",
+    "category": "data_privacy",
+    "expected_behavior": "answer",
+    "expected_answer_points": [
+      "customer data must not be stored on personal devices",
+      "approved company systems should be used",
+      "privacy or security restrictions apply"
+    ],
+    "expected_source_documents": [
+      "Data Privacy Policy V1",
+      "Device Usage Policy V1",
+      "It Security Policy V1"
+    ],
+    "should_escalate": false
+  },
+  {
+    "id": "eval_005",
+    "question": "Do I need manager approval for three days of PTO?",
+    "category": "hr_leave",
+    "expected_behavior": "answer",
+    "expected_answer_points": [
+      "PTO requests of three or more consecutive business days require manager approval",
+      "notice requirements may apply",
+      "critical project periods may require additional review"
+    ],
+    "expected_source_documents": [
+      "Hr Leave Policy V1"
+    ],
+    "should_escalate": false
+  },
+  {
+    "id": "eval_006",
+    "question": "Can I install unapproved software on my company laptop?",
+    "category": "it_security",
+    "expected_behavior": "answer",
+    "expected_answer_points": [
+      "unapproved software cannot be installed",
+      "company devices must follow IT security rules",
+      "approved software or IT approval is required"
+    ],
+    "expected_source_documents": [
+      "It Security Policy V1",
+      "Device Usage Policy V1"
+    ],
+    "should_escalate": false
+  },
+  {
+    "id": "eval_007",
+    "question": "How often should system access be reviewed?",
+    "category": "access_control",
+    "expected_behavior": "answer",
+    "expected_answer_points": [
+      "access reviews must occur every 90 days",
+      "least privilege principle applies",
+      "manager or security review may be required"
+    ],
+    "expected_source_documents": [
+      "Access Control Policy V1"
+    ],
+    "should_escalate": false
+  },
+  {
+    "id": "eval_008",
+    "question": "When should a new hire complete security awareness training?",
+    "category": "onboarding",
+    "expected_behavior": "answer",
+    "expected_answer_points": [
+      "security awareness training should be completed within 5 business days",
+      "new hire onboarding requirements apply",
+      "manager or HR responsibilities may apply"
+    ],
+    "expected_source_documents": [
+      "Employee Onboarding Guide V1",
+      "It Security Policy V1"
+    ],
+    "should_escalate": false
+  },
+  {
+    "id": "eval_009",
+    "question": "Can I get reimbursed for alcohol during business travel?",
+    "category": "travel_expense",
+    "expected_behavior": "answer",
+    "expected_answer_points": [
+      "alcohol is not reimbursable",
+      "travel expenses must follow reimbursement rules",
+      "receipt or approval requirements may apply"
+    ],
+    "expected_source_documents": [
+      "Travel And Expense Policy V1",
+      "Finance Reimbursement Policy V1"
+    ],
+    "should_escalate": false
+  },
+  {
+    "id": "eval_010",
+    "question": "Can I use my personal phone to access company systems?",
+    "category": "device_usage",
+    "expected_behavior": "answer",
+    "expected_answer_points": [
+      "personal devices require IT approval",
+      "security requirements apply",
+      "company systems access must follow device and security policies"
+    ],
+    "expected_source_documents": [
+      "Device Usage Policy V1",
+      "It Security Policy V1",
+      "Access Control Policy V1"
+    ],
+    "should_escalate": false
+  },
+  {
+    "id": "eval_011",
+    "question": "Does the company provide pet insurance for employees?",
+    "category": "unsupported",
+    "expected_behavior": "escalate",
+    "expected_answer_points": [
+      "not enough evidence",
+      "cannot answer confidently",
+      "escalate to appropriate department"
+    ],
+    "expected_source_documents": [],
+    "should_escalate": true
+  },
+  {
+    "id": "eval_012",
+    "question": "What is the company policy for buying cryptocurrency?",
+    "category": "unsupported",
+    "expected_behavior": "escalate",
+    "expected_answer_points": [
+      "not enough evidence",
+      "cannot answer confidently",
+      "escalate to appropriate department"
+    ],
+    "expected_source_documents": [],
+    "should_escalate": true
+  }
+]

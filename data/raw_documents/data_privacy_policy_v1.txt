@@ -1,0 +1,258 @@
+================================================================
+NORTHSTAR ANALYTICS GROUP
+DATA PRIVACY POLICY
+================================================================
+
+Document ID:      DPO-POL-0309
+Department:       Legal / Compliance
+Version:          1.0
+Effective Date:   March 4, 2025
+Owner:            Data Protection Officer (DPO)
+Co-Owner:         General Counsel
+Classification:   Internal Use Only
+Related Policies: IT-POL-0203 (IT Security), IT-POL-0211
+                  (Device Usage), HR-POL-0061 (Remote Work),
+                  SOC-SOP-0418 (Incident Reporting), HR-POL-0042
+                  (Leave), FIN-POL-0117 (Expense and
+                  Reimbursement)
+
+================================================================
+1. PURPOSE
+================================================================
+
+This policy establishes the standards governing the collection,
+classification, storage, use, sharing, and disposal of personal
+and confidential information at Northstar Analytics Group
+("Northstar" or "the Company"). It is intended to protect the
+privacy rights of customers, employees, and other data
+subjects, to support compliance with applicable data protection
+laws including GDPR, CCPA/CPRA, and equivalent regional
+frameworks, and to define behavioral expectations that
+complement the technical controls described in the IT Security
+Policy (IT-POL-0203).
+
+================================================================
+2. SCOPE
+================================================================
+
+This policy applies to all employees, contractors, interns,
+and third parties who access, process, or otherwise handle
+personal or confidential information belonging to Northstar,
+its customers, its employees, or its business partners,
+regardless of work location or device. It governs data in all
+forms, including electronic, printed, verbal, and visual.
+Local statutory or regulatory requirements supersede this
+policy where they impose stricter obligations.
+
+================================================================
+3. CONFIDENTIAL DATA CLASSIFICATION
+================================================================
+
+All information handled at Northstar is classified into one of
+four tiers, with handling requirements escalating accordingly:
+
+   - Public:        Approved for unrestricted external release
+                    (marketing materials, published research)
+   - Internal:      Default classification for business
+                    communications; not for external release
+                    without approval
+   - Confidential:  Customer data, employee personal data,
+                    financial records, internal strategy,
+                    source code, and unreleased analytics
+                    outputs
+   - Restricted:    Regulated data including payment card
+                    information, government identifiers,
+                    health information, and authentication
+                    secrets
+
+Employees are responsible for applying the correct
+classification at the point of creation and for handling
+received data according to its existing classification. When
+in doubt, data must be treated as Confidential pending
+clarification from the Data Protection Office.
+
+================================================================
+4. CUSTOMER DATA HANDLING RULES
+================================================================
+
+Customer data is classified as Confidential at minimum and may
+be Restricted depending on its contents. The following rules
+apply to all customer data:
+
+   - Customer data must not be stored on personal devices
+     under any circumstances, including personal laptops,
+     phones, tablets, or removable media
+   - Customer reports, including analytics outputs,
+     dashboards, and exports, must be stored only in approved
+     Company systems as listed in the Approved Systems
+     Register
+   - Customer data must not be transmitted through personal
+     email accounts, consumer messaging applications, or
+     unapproved file-sharing services
+   - Access to customer data must follow least-privilege
+     principles; access is granted on the basis of
+     demonstrated business need and is reviewed quarterly by
+     data owners
+   - Customer data may not be used for purposes outside the
+     scope of the contractual engagement without documented
+     customer consent
+
+================================================================
+5. EMPLOYEE DATA HANDLING RULES
+================================================================
+
+Employee personal data is processed for human resources,
+payroll, benefits, performance management, and statutory
+compliance purposes. Such data is treated as Confidential and,
+where it includes regulated categories such as health
+information or government identifiers, as Restricted.
+Employees have the right to access their own personal data and
+to request correction of inaccurate information through the
+People Operations Service Desk. Managers and HR personnel with
+access to employee data may use it only for documented
+business purposes and must not discuss it outside authorized
+channels.
+
+================================================================
+6. DATA RETENTION RULES
+================================================================
+
+All Company data is subject to defined retention periods
+maintained in the Records Retention Schedule. Standard
+retention periods include:
+
+   - Customer engagement records:  7 years post-engagement
+   - Financial transaction records: 7 years
+   - Employee records:              7 years post-separation
+   - System and access logs:        13 months minimum
+   - Marketing and prospect data:   2 years from last contact
+   - Personal data subject requests: 3 years from resolution
+
+Retention periods may be extended where legal holds are
+issued by the General Counsel's office. Data must be securely
+destroyed at the end of its retention period using approved
+deletion methods; informal retention "just in case" is
+prohibited.
+
+================================================================
+7. DATA SHARING RULES
+================================================================
+
+Internal sharing of Confidential and Restricted data must
+follow least-privilege principles and use only approved
+collaboration tools as defined in the IT Security Policy
+(IT-POL-0203, Section 5). External sharing of Confidential or
+Restricted data requires:
+
+   - A signed agreement covering confidentiality and, where
+     applicable, data processing terms
+   - Review by the Data Protection Office for any sharing
+     involving personal data
+   - Transmission through approved secure channels; sharing
+     via personal email, consumer messaging, or unapproved
+     cloud drives is prohibited
+   - A documented business purpose recorded in the data
+     sharing log
+
+Cross-border transfers of personal data are subject to
+additional safeguards including Standard Contractual Clauses
+or equivalent mechanisms and must be reviewed by Legal before
+initiation.
+
+================================================================
+8. REMOTE WORK PRIVACY RULES
+================================================================
+
+Employees working remotely or on a hybrid basis, as governed
+by the Remote Work Policy (HR-POL-0061), must take reasonable
+steps to protect Confidential and Restricted data in the home
+environment:
+
+   - Conduct calls involving customer or employee personal
+     data in a private space where conversations cannot be
+     overheard by household members or visitors
+   - Position screens so that they are not visible to others
+   - Do not print Confidential or Restricted data at home
+     without prior written approval from both the data owner
+     and the Data Protection Office; approved printed
+     materials must be stored in a locked location and
+     destroyed via cross-cut shredder or returned to a
+     Company facility for secure destruction
+   - Do not allow household members or visitors to use
+     Company devices
+
+================================================================
+9. PERSONAL DEVICE RESTRICTIONS
+================================================================
+
+Personal devices may access only those Company systems
+explicitly authorized through the IT security approval process
+described in the IT Security Policy (IT-POL-0203, Section 7)
+and the Device Usage Policy (IT-POL-0211). Even when a
+personal device is approved for limited access, the following
+restrictions apply:
+
+   - Customer data must not be stored locally on the device
+   - Confidential documents must not be downloaded to the
+     device file system
+   - Screenshots of Confidential or Restricted data are
+     prohibited
+   - Use of personal cloud backup services that may capture
+     Company data is prohibited
+
+================================================================
+10. INCIDENT REPORTING EXPECTATIONS
+================================================================
+
+A privacy incident is any event involving the actual or
+suspected unauthorized access, disclosure, alteration, loss,
+or destruction of personal or Confidential data. Examples
+include misdirected emails containing personal data, lost
+printed reports, accidental sharing of customer data with
+unauthorized parties, and unauthorized data exports. Privacy
+incidents must be reported to the Data Protection Office
+within 24 hours of discovery via the Privacy Incident Portal.
+Incidents that also constitute security incidents, including
+lost devices and suspected account compromise, must
+additionally be reported to the Security Operations Center
+within 1 hour in accordance with the IT Security Policy
+(IT-POL-0203, Section 10) and the Incident Reporting SOP
+(SOC-SOP-0418). The Data Protection Office is responsible for
+assessing regulatory notification obligations, which in many
+jurisdictions require notification to authorities within 72
+hours.
+
+================================================================
+11. EXCEPTIONS
+================================================================
+
+Exceptions to this policy may be granted only where a
+documented business need exists and compensating controls are
+in place. All exceptions must be requested through the Privacy
+Exception process and approved jointly by the Data Protection
+Officer and the General Counsel. Exceptions are time-bound,
+reviewed at least annually, and do not establish precedent.
+
+================================================================
+12. ESCALATION CONTACT
+================================================================
+
+Questions, disputes, escalations, or data subject requests
+regarding this policy should be directed to:
+
+   Data Protection Office
+   Email:    privacy@northstaranalytics.com
+   Portal:   https://privacy.northstaranalytics.internal
+   Owner:    Data Protection Officer
+
+================================================================
+13. REVISION HISTORY
+================================================================
+
+Version 1.0  |  March 4, 2025      |  Initial publication
+Version 0.7  |  February 6, 2025   |  Final draft for review
+Version 0.3  |  December 18, 2024  |  Legal and regulatory review
+
+================================================================
+END OF DOCUMENT - DPO-POL-0309
+================================================================

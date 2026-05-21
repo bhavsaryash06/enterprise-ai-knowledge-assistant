@@ -1,0 +1,185 @@
+================================================================
+NORTHSTAR ANALYTICS GROUP
+LEAVE POLICY
+================================================================
+
+Document ID:      HR-POL-0042
+Department:       Human Resources
+Version:          1.0
+Effective Date:   January 15, 2025
+Owner:            Director of People Operations
+Classification:   Internal Use Only
+
+================================================================
+1. PURPOSE
+================================================================
+
+This policy establishes the standards, entitlements, and
+procedures governing all forms of employee leave at Northstar
+Analytics Group ("Northstar" or "the Company"). It is intended
+to support employee well-being, ensure operational continuity,
+and provide a consistent framework for the request, approval,
+and documentation of time away from work. All managers and
+employees are expected to apply this policy fairly and
+consistently across departments.
+
+================================================================
+2. SCOPE
+================================================================
+
+This policy applies to all full-time and part-time regular
+employees of Northstar Analytics Group across all global
+offices, including remote employees. Contractors, interns, and
+temporary workers are governed by separate agreements and are
+not covered under this policy unless explicitly stated in their
+engagement terms. Regional statutory entitlements supersede this
+policy where local law provides greater benefits.
+
+================================================================
+3. PAID TIME OFF (PTO) RULES
+================================================================
+
+Full-time employees accrue paid time off at a rate of 1.67 days
+per month, totaling 20 business days per calendar year. Part-time
+employees accrue PTO on a pro-rated basis according to scheduled
+hours. Employees may carry over a maximum of 5 unused PTO days
+into the following calendar year; any excess balance will be
+forfeited on December 31. PTO requests of 3 or more consecutive
+business days require manager approval submitted at least 10
+business days in advance through the Workday Absence Module.
+PTO requests during critical project periods, including quarter
+close, product launches, and client engagement milestones, may
+require additional review by the department head. Employees may
+not maintain a negative PTO balance except in cases approved by
+Human Resources.
+
+================================================================
+4. SICK LEAVE RULES
+================================================================
+
+Employees are entitled to 10 paid sick days per calendar year,
+available from the first day of employment and non-accruing.
+Sick leave is intended for personal illness, injury, medical
+appointments, and the care of immediate family members who are
+ill. Employees must notify their direct manager before the start
+of their scheduled workday whenever practical. Sick leave
+absences longer than 3 consecutive business days may require
+supporting documentation from a licensed medical practitioner,
+to be submitted to Human Resources within 5 business days of
+return. Unused sick leave does not carry over to the following
+year and is not eligible for payout upon separation.
+
+================================================================
+5. FAMILY LEAVE RULES
+================================================================
+
+Northstar provides up to 16 weeks of paid parental leave to
+primary caregivers and 8 weeks to secondary caregivers following
+the birth, adoption, or foster placement of a child. Eligibility
+begins after 6 months of continuous employment. Family medical
+leave for the serious health condition of a spouse, child, or
+parent is available for up to 12 weeks per rolling 12-month
+period, in accordance with applicable federal and state law.
+Employees must provide at least 30 days advance notice for
+foreseeable family leave and submit appropriate certification
+forms to Human Resources. Benefits continuation during family
+leave follows the standard employer-contribution structure.
+
+================================================================
+6. BEREAVEMENT LEAVE RULES
+================================================================
+
+Employees are entitled to up to 5 paid bereavement days for the
+death of an immediate family member, defined as spouse, domestic
+partner, child, parent, sibling, grandparent, or in-law of
+equivalent relationship. Up to 2 paid days are provided for the
+death of an extended family member or close friend. Additional
+unpaid leave may be requested through the employee's manager and
+Human Resources. Documentation is not routinely required but may
+be requested in the case of extended absences.
+
+================================================================
+7. UNPAID LEAVE RULES
+================================================================
+
+Employees who have exhausted other applicable leave categories
+may request unpaid leave of absence for personal, educational,
+or medical reasons. Unpaid leave requests must be submitted at
+least 30 days in advance, except in emergencies, and require
+approval from both the direct manager and the department head.
+Unpaid leave exceeding 30 calendar days requires additional
+approval from the Director of People Operations. Health benefits
+may continue during unpaid leave subject to employee premium
+contributions. PTO does not accrue during periods of unpaid
+leave.
+
+================================================================
+8. MANAGER APPROVAL REQUIREMENTS
+================================================================
+
+All leave requests must be submitted through the Workday Absence
+Module and routed to the employee's direct manager for review.
+Managers are expected to respond to leave requests within 3
+business days. PTO requests of 3 or more consecutive business
+days require explicit manager approval. Leave requests
+overlapping with critical project periods, audit cycles, or peak
+business seasons may be escalated to the department head for
+secondary review. Emergency leave may be approved retroactively
+by the manager upon the employee's return, provided notification
+was made as soon as reasonably possible.
+
+================================================================
+9. NOTICE PERIOD REQUIREMENTS
+================================================================
+
+Standard notice requirements are as follows: PTO of 1-2 days
+requires 3 business days notice; PTO of 3-5 days requires 10
+business days notice; PTO exceeding 5 days requires 20 business
+days notice. Family and unpaid leave require 30 calendar days
+notice when foreseeable. Sick and bereavement leave require
+notification as soon as reasonably practical.
+
+================================================================
+10. DOCUMENTATION REQUIREMENTS
+================================================================
+
+Supporting documentation may be required for: sick leave
+exceeding 3 consecutive business days, all family medical leave
+requests, accommodations under the Americans with Disabilities
+Act, and any leave extending beyond 10 consecutive business
+days. Documentation must be submitted to Human Resources, not
+the direct manager, to preserve medical privacy.
+
+================================================================
+11. EXCEPTIONS
+================================================================
+
+Exceptions to this policy may be granted in cases of significant
+personal hardship, statutory requirements, or business need.
+All exceptions must be documented in writing and approved by the
+Director of People Operations. Exceptions do not constitute a
+precedent or modification of this policy.
+
+================================================================
+12. ESCALATION CONTACT
+================================================================
+
+Questions, disputes, or escalations regarding this policy should
+be directed to:
+
+   Human Resources Service Desk
+   Email:   hr-support@northstaranalytics.com
+   Phone:   +1 (415) 555-0182
+   Owner:   Director of People Operations
+
+================================================================
+13. REVISION HISTORY
+================================================================
+
+Version 1.0  |  January 15, 2025  |  Initial publication
+Version 0.9  |  December 3, 2024  |  Final draft for review
+Version 0.5  |  October 18, 2024  |  Legal and benefits review
+
+================================================================
+END OF DOCUMENT - HR-POL-0042
+================================================================

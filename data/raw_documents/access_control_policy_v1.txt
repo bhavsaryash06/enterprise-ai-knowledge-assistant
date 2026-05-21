@@ -1,0 +1,272 @@
+================================================================
+NORTHSTAR ANALYTICS GROUP
+ACCESS CONTROL POLICY
+================================================================
+
+Document ID:      IT-POL-0224
+Department:       Information Technology / Compliance
+Version:          1.0
+Effective Date:   May 19, 2025
+Owner:            Director of Identity and Access Management
+Co-Owner:         Chief Information Security Officer (CISO)
+Classification:   Internal Use Only
+Related Policies: IT-POL-0203 (IT Security), IT-POL-0211
+                  (Device Usage), DPO-POL-0309 (Data Privacy),
+                  HR-GDE-0074 (Onboarding), HR-POL-0061
+                  (Remote Work), SOC-SOP-0418 (Incident
+                  Reporting), HR-POL-0042 (Leave)
+
+================================================================
+1. PURPOSE
+================================================================
+
+This policy establishes the standards governing the request,
+approval, provisioning, review, and removal of access to
+Northstar Analytics Group ("Northstar" or "the Company")
+systems, applications, data, and facilities. It is intended
+to ensure that access is granted only to authorized
+individuals, is appropriate to their role, is regularly
+reviewed, and is removed promptly when no longer required.
+This policy implements the access-related obligations
+referenced in the IT Security Policy (IT-POL-0203) and the
+Data Privacy Policy (DPO-POL-0309).
+
+================================================================
+2. SCOPE
+================================================================
+
+This policy applies to all access granted to Northstar
+systems and facilities, regardless of the requester's
+employment classification, location, or device. It covers
+employees, contractors, interns, vendors, auditors, and any
+third party requiring access. It governs logical access to
+information systems and physical access to Company
+facilities and secure zones. Local statutory or regulatory
+requirements supersede this policy where they impose
+stricter controls.
+
+================================================================
+3. ACCESS REQUEST PROCESS
+================================================================
+
+All access requests must be submitted through the Access
+Request Portal. Self-requested access is permitted only for
+the activation of pre-approved role templates assigned at
+onboarding (HR-GDE-0074, Section 7); all other access
+requests must be submitted by the requester's manager on
+their behalf. Each request must include:
+
+   - The specific system, application, dataset, or facility
+   - The level of access required (read, write, administer,
+     or equivalent)
+   - The business justification
+   - The expected duration, where time-bound
+
+Standard requests are processed within 3 business days.
+Requests for Confidential or Restricted data, as defined in
+DPO-POL-0309 Section 3, require additional data owner
+approval and may take up to 5 business days. Requests made
+outside this process, including peer-to-peer credential
+sharing or undocumented access grants, are prohibited and
+treated as a security incident under SOC-SOP-0418.
+
+================================================================
+4. LEAST PRIVILEGE PRINCIPLE
+================================================================
+
+Access at Northstar is governed by the principle of least
+privilege: individuals are granted the minimum access
+required to perform their assigned duties, and no more.
+Specific applications of this principle include:
+
+   - Access is scoped to the smallest viable data set, system
+     component, or facility zone
+   - Time-bound access is preferred where the underlying need
+     is project-based, seasonal, or short-term
+   - Write and administrative permissions are granted only
+     where read access is insufficient for the role
+   - Access is reduced or revoked promptly when a role change,
+     project conclusion, or extended leave reduces the
+     business need
+
+Managers are accountable for ensuring that the access held by
+their team members remains aligned with current
+responsibilities.
+
+================================================================
+5. MANAGER APPROVAL RULES
+================================================================
+
+All access must be approved by the requester's direct
+manager. Managers approve access by attesting that:
+
+   - The requested access is consistent with the requester's
+     current role and responsibilities
+   - The least-privilege principle has been applied
+   - The requester has completed any prerequisite training
+     required for the access being requested
+
+Managers may not approve their own access requests; such
+requests are routed automatically to the next level of
+management. Approval is not a one-time act: managers carry
+ongoing accountability for the appropriateness of access
+held by their team members and are required to participate
+in the periodic access reviews described in Section 7.
+
+================================================================
+6. ROLE-BASED ACCESS
+================================================================
+
+Northstar uses role-based access control (RBAC) as the
+primary access model. Role templates are defined and
+maintained by the Identity and Access Management team in
+coordination with data owners and business stakeholders.
+Standard roles are used wherever possible to reduce
+provisioning errors, simplify reviews, and accelerate
+onboarding.
+
+Privileged roles, including administrator access to
+production infrastructure, source code management, customer
+data stores, identity providers, and security tooling,
+require explicit approval by IT Security in addition to
+manager approval. Privileged access is granted only after
+completion of role-specific privileged access training,
+enforcement of hardware-key multi-factor authentication, and
+acknowledgment of just-in-time access procedures where
+applicable.
+
+Service accounts and other non-human identities are governed
+under the same approval framework as user accounts. Each
+service account must have a documented owner, a defined
+business purpose, scoped permissions, and rotated
+credentials in line with the IT Security Policy
+(IT-POL-0203, Section 3). Use of shared interactive accounts
+by multiple individuals is prohibited.
+
+================================================================
+7. ACCESS REVIEW FREQUENCY
+================================================================
+
+Access is reviewed on a recurring basis to ensure ongoing
+alignment with business need:
+
+   - Standard user access: Reviewed every 90 days by the
+     requester's manager and the system data owner
+   - Privileged access: Reviewed every 30 days by IT
+     Security and the system data owner
+   - Service accounts: Reviewed every 90 days by the
+     documented owner
+   - Facility access to secure zones: Reviewed every 90 days
+     by Workplace Operations
+
+Reviews are conducted through the Access Governance Portal.
+Reviewers must either reaffirm or revoke each access entry;
+inaction past the review deadline results in automatic
+revocation of the reviewed access. Patterns of non-completion
+are escalated to department heads and tracked as a
+compliance metric.
+
+================================================================
+8. TERMINATION ACCESS REMOVAL
+================================================================
+
+Access for terminated employees must be removed within 24
+hours of the official separation time recorded in Workday.
+For voluntary separations with advance notice, deprovisioning
+is scheduled to execute at the close of the final working
+day. For involuntary separations, deprovisioning is executed
+immediately upon notification from People Operations, and may
+precede the employee's notification at the discretion of the
+business.
+
+Deprovisioning includes disabling user accounts, revoking
+single sign-on access, rotating any shared credentials the
+employee may have known, returning hardware security keys,
+and removing physical access badges. Mailbox and file access
+held by the departing employee is transferred to the manager
+or a designated successor in accordance with the Data Privacy
+Policy (DPO-POL-0309).
+
+================================================================
+9. CONTRACTOR ACCESS RULES
+================================================================
+
+Contractor and third-party access is subject to additional
+controls reflecting the time-bound nature of these
+engagements. All contractor access must:
+
+   - Have a defined expiration date no later than the end of
+     the contracted engagement, with a hard maximum of 12
+     months before re-approval is required
+   - Be sponsored by an employee who acts as the
+     engagement's accountable owner
+   - Be limited to the systems and data necessary for the
+     contracted work, applying least-privilege strictly
+   - Be revoked automatically upon expiration unless an
+     extension is approved before the expiration date
+
+Contractor access to Confidential or Restricted data
+additionally requires a signed confidentiality and data
+processing agreement on file with Legal before access is
+provisioned.
+
+================================================================
+10. EMERGENCY ACCESS
+================================================================
+
+Emergency access may be granted to address production
+incidents, security incidents, or other time-critical
+business situations where the standard approval timeline
+cannot be met. Emergency access:
+
+   - Is granted only by IT Security or a delegated on-call
+     authority
+   - Is time-bound, with a default duration of 4 hours and a
+     maximum of 24 hours before re-approval is required
+   - Is fully logged, including the requester, the granting
+     authority, the systems accessed, and the actions
+     performed
+   - Is reviewed within 5 business days by IT Security and
+     the relevant data owner, with any access not justified
+     in retrospect documented as a finding
+
+Routine or repeated use of the emergency access path is
+treated as a process failure and triggers review of the
+underlying role design.
+
+================================================================
+11. EXCEPTIONS
+================================================================
+
+Exceptions to this policy may be granted only where a
+documented business need exists and compensating controls
+are in place. All exceptions must be requested through the
+Security Exception Management process and approved jointly
+by the CISO and the Director of Identity and Access
+Management. Exceptions are time-bound, do not exceed 12
+months without re-review, and do not establish precedent.
+
+================================================================
+12. ESCALATION CONTACT
+================================================================
+
+Questions, disputes, or escalations regarding this policy
+should be directed to:
+
+   Identity and Access Management Service Desk
+   Email:    iam@northstaranalytics.com
+   Phone:    +1 (415) 555-0175
+   Portal:   https://access.northstaranalytics.internal
+   Owner:    Director of Identity and Access Management
+
+================================================================
+13. REVISION HISTORY
+================================================================
+
+Version 1.0  |  May 19, 2025      |  Initial publication
+Version 0.6  |  April 23, 2025    |  Final draft for review
+Version 0.2  |  March 11, 2025    |  Cross-functional review
+
+================================================================
+END OF DOCUMENT - IT-POL-0224
+================================================================

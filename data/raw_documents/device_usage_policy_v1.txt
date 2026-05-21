@@ -1,0 +1,270 @@
+================================================================
+NORTHSTAR ANALYTICS GROUP
+DEVICE USAGE POLICY
+================================================================
+
+Document ID:      IT-POL-0211
+Department:       Information Technology
+Version:          1.0
+Effective Date:   May 5, 2025
+Owner:            Director of End User Computing
+Co-Owner:         Chief Information Security Officer (CISO)
+Classification:   Internal Use Only
+Related Policies: IT-POL-0203 (IT Security), IT-POL-0224
+                  (Access Control), DPO-POL-0309 (Data Privacy),
+                  HR-POL-0061 (Remote Work), SOC-SOP-0418
+                  (Incident Reporting), FIN-POL-0117 (Expense
+                  and Reimbursement), HR-GDE-0074 (Onboarding)
+
+================================================================
+1. PURPOSE
+================================================================
+
+This policy defines the standards governing the acceptable
+use, configuration, and handling of devices that access
+Northstar Analytics Group ("Northstar" or "the Company")
+systems or process Company data. It supplements the baseline
+security controls established in the IT Security Policy
+(IT-POL-0203) with device-specific behavioral expectations
+and operational rules.
+
+================================================================
+2. SCOPE
+================================================================
+
+This policy applies to all employees, contractors, interns,
+and third parties who use any device, whether Company-issued
+or personally owned, to perform work for Northstar or to
+access Northstar systems and data. It covers laptops,
+desktops, mobile phones, tablets, removable media, hardware
+security keys, and any peripheral that connects to a
+Company-managed device or network. Local statutory
+requirements supersede this policy where they impose stricter
+controls.
+
+================================================================
+3. COMPANY DEVICE USAGE
+================================================================
+
+Company-issued devices must be used primarily for business
+purposes. Incidental personal use is permitted provided it
+does not interfere with work, consume material Company
+resources, or violate any Company policy. The following are
+prohibited on Company devices under any circumstances:
+
+   - Storage or transmission of unlawful, harassing, or
+     discriminatory content
+   - Storage of personal financial, medical, or government
+     identification records belonging to the user or others
+   - Use of file-sharing or torrenting clients
+   - Cryptocurrency mining or similar resource-intensive
+     personal computation
+   - Sharing the device with household members, friends, or
+     other unauthorized individuals
+
+Employees should have no expectation of privacy in their use
+of Company devices. The Company reserves the right to
+monitor, audit, and access Company devices in accordance with
+applicable law and the Data Privacy Policy (DPO-POL-0309).
+
+================================================================
+4. PERSONAL DEVICE USAGE
+================================================================
+
+Personal devices may not access Company systems without prior
+IT security approval. Approval is granted through the Bring
+Your Own Device (BYOD) intake process and requires:
+
+   - Enrollment in the Company mobile device management (MDM)
+     platform
+   - A device operating system within the supported version
+     window
+   - Acceptance of the BYOD terms, including consent to
+     remote wipe of Company data
+   - Confirmation that the device meets the baseline security
+     requirements in Section 9
+
+Approved personal devices may access only the specific
+systems identified in the approval record. Use of personal
+devices for activities not covered by the approval is
+prohibited. Approval may be revoked at any time for security,
+performance, or policy reasons, and is automatically revoked
+upon separation.
+
+================================================================
+5. MOBILE DEVICE RULES
+================================================================
+
+Mobile devices, whether Company-issued or approved personal,
+must comply with the following:
+
+   - Enrollment in the Company MDM platform with the
+     Company configuration profile applied
+   - Device passcode of at least 6 digits or biometric
+     equivalent
+   - Automatic device lock after no more than 2 minutes of
+     inactivity
+   - Operating system updates installed within 14 days of
+     vendor release
+   - Use of the Company-approved authenticator application
+     for any service requiring multi-factor authentication
+   - Disabling of cloud backup services that may capture
+     Company data, including consumer photo and document
+     backup services for any folders containing work content
+
+Public app store applications used for Company business must
+be from the Company-approved catalog. Side-loading of
+applications is prohibited.
+
+================================================================
+6. SOFTWARE INSTALLATION RULES
+================================================================
+
+Employees may not install unapproved software on Company
+devices, consistent with the IT Security Policy (IT-POL-0203,
+Section 5). Approved software is listed in the Company
+Software Catalog and is automatically available through the
+self-service portal on Company laptops. Requests for new
+software, including browser extensions and command-line
+utilities, must be submitted through the Software Request
+Portal for security and licensing review.
+
+Software identified as unapproved on a Company device will be
+removed automatically by endpoint management tooling without
+prior notice. Repeated installation of unapproved software,
+or attempts to bypass software controls, may result in
+disciplinary action.
+
+================================================================
+7. DEVICE LOSS REPORTING
+================================================================
+
+Lost, stolen, or otherwise compromised devices must be
+reported immediately and no later than 1 hour from
+discovery, consistent with the Incident Reporting SOP
+(SOC-SOP-0418, Section 7) and the IT Security Policy
+(IT-POL-0203, Section 10). Reports must be submitted to the
+Security Operations Center via the 24x7 hotline or portal,
+and should include:
+
+   - Device type, asset tag if known, and last known
+     location
+   - Time and circumstances of loss or theft
+   - Any data the device may have held in local storage
+   - Whether a police report has been filed (for theft)
+
+The Security Operations Center will initiate remote wipe,
+credential rotation, and access revocation procedures.
+Employees must not delay reporting in an attempt to recover
+the device themselves; recovery efforts may be coordinated
+with IT after the report is filed.
+
+================================================================
+8. DATA STORAGE RESTRICTIONS
+================================================================
+
+The following data storage restrictions apply to all devices
+regardless of ownership:
+
+   - Customer data must not be stored on personal devices
+     under any circumstances, consistent with the Data
+     Privacy Policy (DPO-POL-0309, Section 4)
+   - Confidential and Restricted data, as defined in
+     DPO-POL-0309 Section 3, must not be stored on removable
+     media unless the media is Company-issued, encrypted, and
+     tracked
+   - Local storage of Company data on Company devices is
+     permitted only where the Company-managed encryption and
+     backup configuration is active
+   - Personal cloud storage services (consumer Dropbox,
+     personal Google Drive, iCloud Drive for work content,
+     and similar) must not be used for any Company data
+   - Screenshots, photographs, or screen recordings of
+     Confidential or Restricted data are prohibited except
+     where explicitly authorized in writing
+
+================================================================
+9. REMOTE WORK DEVICE EXPECTATIONS
+================================================================
+
+Employees working remotely or on a hybrid basis under the
+Remote Work Policy (HR-POL-0061) must additionally:
+
+   - Use Company devices exclusively for work involving
+     Confidential or Restricted data
+   - Position the device so that the screen is not visible to
+     household members or visitors during work involving
+     Company data
+   - Connect to Company systems only through the Company VPN
+     or approved zero-trust access broker
+   - Avoid leaving Company devices unattended in vehicles,
+     public spaces, or unsecured locations
+   - Ensure that any peripheral connected to a Company device
+     was purchased from an approved vendor or has received
+     individual IT approval, as required by IT-POL-0203
+     Section 6 and FIN-POL-0117 Section 6
+
+Home office equipment purchases are governed by FIN-POL-0117
+Section 5 and require manager approval before purchase.
+
+================================================================
+10. SECURITY REQUIREMENTS
+================================================================
+
+All devices accessing Company systems must meet the baseline
+security controls defined in the IT Security Policy
+(IT-POL-0203, Section 7), including:
+
+   - Full-disk encryption
+   - Active Company endpoint detection and response (EDR)
+     agent (Company devices) or Company MDM enrollment
+     (approved personal devices)
+   - Screen lock with a maximum 5-minute inactivity timeout
+     on laptops and 2-minute timeout on mobile devices
+   - Operating system and application patching within the
+     timelines defined in IT-POL-0203
+   - Restricted local administrator privileges on Company
+     devices
+
+Tampering with security tooling, including disabling the EDR
+agent, removing the MDM profile, or attempting to bypass
+disk encryption, is treated as a security incident and
+reported under SOC-SOP-0418.
+
+================================================================
+11. EXCEPTIONS
+================================================================
+
+Exceptions to this policy may be granted only where a
+documented business need exists and compensating controls
+are in place. All exceptions must be requested through the
+Security Exception Management process and approved by the
+CISO or a delegated authority. Exceptions are time-bound,
+do not exceed 12 months without re-review, and do not
+establish precedent.
+
+================================================================
+12. ESCALATION CONTACT
+================================================================
+
+Questions, disputes, or escalations regarding this policy
+should be directed to:
+
+   IT Service Desk
+   Email:    it-support@northstaranalytics.com
+   Phone:    +1 (415) 555-0150
+   SOC 24x7: +1 (415) 555-0911 (for lost or compromised
+             devices)
+   Owner:    Director of End User Computing
+
+================================================================
+13. REVISION HISTORY
+================================================================
+
+Version 1.0  |  May 5, 2025       |  Initial publication
+Version 0.7  |  April 9, 2025     |  Final draft for review
+Version 0.3  |  February 24, 2025 |  Architecture review
+
+================================================================
+END OF DOCUMENT - IT-POL-0211
+================================================================

@@ -1,0 +1,216 @@
+================================================================
+NORTHSTAR ANALYTICS GROUP
+REMOTE WORK POLICY
+================================================================
+
+Document ID:      HR-POL-0061
+Department:       Human Resources / Operations
+Version:          1.0
+Effective Date:   January 28, 2025
+Owner:            Director of People Operations
+Co-Owner:         Director of Workplace Operations
+Classification:   Internal Use Only
+Related Policies: HR-POL-0042 (Leave), FIN-POL-0117 (Expense
+                  and Reimbursement), IT-POL-0203 (IT Security),
+                  DPO-POL-0309 (Data Privacy)
+
+================================================================
+1. PURPOSE
+================================================================
+
+This policy defines the standards, expectations, and approval
+processes governing remote and hybrid work arrangements at
+Northstar Analytics Group ("Northstar" or "the Company"). It is
+intended to support workforce flexibility while maintaining
+operational continuity, information security, and equitable
+treatment across teams. This policy works in conjunction with
+the Expense and Reimbursement Policy (FIN-POL-0117) for home
+office provisioning, the IT Security Policy (IT-POL-0203) for
+device and network controls, and the Data Privacy Policy
+(DPO-POL-0309) for the handling of personal and customer data
+outside Company premises.
+
+================================================================
+2. SCOPE
+================================================================
+
+This policy applies to all full-time and part-time regular
+employees of Northstar Analytics Group across all global
+offices who perform work outside a designated Company facility,
+whether on a fully remote, hybrid, or occasional basis.
+Contractors and temporary workers are governed by their
+engagement agreements. Local statutory requirements supersede
+this policy where they provide greater employee protection.
+
+================================================================
+3. REMOTE WORK ELIGIBILITY
+================================================================
+
+Eligibility for remote work is determined by role
+characteristics, tenure, and performance, not by personal
+preference alone. Roles that require on-site presence,
+including hardware operations, secure data handling rooms, and
+designated client-facing reception functions, are not eligible
+for fully remote arrangements. Employees must have completed at
+least 90 days of continuous employment and be in good
+performance standing to apply for a fully remote arrangement.
+Employees must receive written manager approval before
+switching from in-office or hybrid status to fully remote
+status. Eligibility is reviewed annually and may be revised
+based on business need, performance, or restructuring.
+
+================================================================
+4. HYBRID WORK EXPECTATIONS
+================================================================
+
+The default working model at Northstar is hybrid, with
+employees expected to be present in their assigned office a
+minimum of 2 days per week, including any team-designated
+anchor days. Anchor days are set by department heads and
+communicated at least 30 days in advance of any change.
+Employees on hybrid arrangements are expected to participate
+in-person for: quarterly team planning sessions, new-hire
+onboarding weeks, and any client meetings designated as
+in-person by the engagement lead. Hybrid employees may not
+convert to a fully remote arrangement without going through
+the approval process described in Section 5.
+
+================================================================
+5. MANAGER APPROVAL REQUIREMENTS
+================================================================
+
+All remote and hybrid work arrangements require formal manager
+approval recorded in the Workday Employee Profile. The
+following changes require explicit, written approval:
+
+   - Initial transition to a hybrid schedule
+   - Transition from hybrid to fully remote
+   - Change in primary work location across state or
+     national borders
+   - Temporary remote work exceeding 10 consecutive business
+     days
+   - Reduction in office presence below the published anchor
+     day requirements
+
+Cross-border location changes additionally require review by
+Human Resources, Payroll, and Tax Operations before approval,
+and may be subject to legal restrictions in certain
+jurisdictions. Managers are expected to respond to remote work
+requests within 10 business days.
+
+================================================================
+6. HOME OFFICE SETUP RULES
+================================================================
+
+Employees working remotely or on a hybrid basis are responsible
+for establishing a home office environment that supports safe,
+productive, and confidential work. Minimum requirements
+include: a dedicated work surface, an ergonomic seating
+arrangement, adequate lighting, and a quiet space suitable for
+virtual meetings and the handling of sensitive information.
+Reimbursable equipment categories and limits are defined in the
+Expense and Reimbursement Policy (FIN-POL-0117, Section 5).
+Home office equipment purchases must be approved by the
+employee's manager before purchase; post-purchase claims
+without prior approval will not be reimbursed. Employees are
+responsible for maintaining a safe home work environment and
+must report any work-related injury to Human Resources within
+24 hours.
+
+================================================================
+7. WORK HOURS AND AVAILABILITY
+================================================================
+
+Remote and hybrid employees are expected to maintain their
+standard scheduled working hours and remain reachable through
+Company-approved communication channels during those hours.
+Core collaboration hours are 10:00 AM to 3:00 PM in the
+employee's assigned home time zone, during which employees
+should be available for synchronous meetings and rapid
+response. Employees working across time zones must coordinate
+with their manager to establish reasonable overlap windows
+with their team. Time-off requests follow the Leave Policy
+(HR-POL-0042) regardless of work location.
+
+================================================================
+8. EQUIPMENT RESPONSIBILITIES
+================================================================
+
+Employees are responsible for the safekeeping of all
+Company-issued equipment, including laptops, monitors, docking
+stations, and peripherals. Equipment must be used solely for
+business purposes by the assigned employee and may not be
+shared with household members. Employees must maintain
+reliable broadband internet access sufficient to support video
+conferencing, file transfer, and the use of Company
+applications. Internet outages exceeding 4 hours during
+scheduled work time must be reported to the employee's manager.
+Loss, theft, or damage of Company equipment must be reported
+to IT Service Desk within 24 hours. Upon separation, all
+Company equipment must be returned within 10 business days
+through the prepaid logistics process coordinated by Workplace
+Operations.
+
+================================================================
+9. SECURITY EXPECTATIONS
+================================================================
+
+Remote work environments are subject to the full set of
+controls described in the IT Security Policy (IT-POL-0203) and
+the Data Privacy Policy (DPO-POL-0309). Specific expectations
+include:
+
+   - Use only Company-approved communication and collaboration
+     tools for business discussions and file sharing
+   - Connect to Company systems exclusively through the
+     Company VPN when handling internal or restricted data
+   - Lock devices when stepping away, even briefly, and ensure
+     screens are not visible to household members or visitors
+   - Do not print confidential customer data at home without
+     prior written approval from both the data owner and the
+     Data Privacy Office
+   - Do not store Company data on personal devices or unapproved
+     cloud services
+   - Report any suspected security incident to the Security
+     Operations Center within 1 hour of discovery
+
+Repeated security violations or performance issues materially
+attributable to remote work may result in the revocation of
+remote work privileges and a required return to an assigned
+office location, in addition to any disciplinary measures
+applicable under Company policy.
+
+================================================================
+10. EXCEPTIONS
+================================================================
+
+Exceptions to this policy may be granted for documented
+medical, family care, or extraordinary business circumstances.
+All exceptions must be requested in writing and approved
+jointly by the employee's manager and the Director of People
+Operations. Exceptions are recorded in the Workday Employee
+Profile and do not establish precedent.
+
+================================================================
+11. ESCALATION CONTACT
+================================================================
+
+Questions, disputes, or escalations regarding this policy
+should be directed to:
+
+   People Operations Service Desk
+   Email:   people-ops@northstaranalytics.com
+   Phone:   +1 (415) 555-0188
+   Owner:   Director of People Operations
+
+================================================================
+12. REVISION HISTORY
+================================================================
+
+Version 1.0  |  January 28, 2025   |  Initial publication
+Version 0.7  |  December 12, 2024  |  Final draft for review
+Version 0.3  |  October 30, 2024   |  Legal and security review
+
+================================================================
+END OF DOCUMENT - HR-POL-0061
+================================================================

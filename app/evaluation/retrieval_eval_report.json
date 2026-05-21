@@ -1,0 +1,201 @@
+{
+  "total_questions": 12,
+  "supported_questions": 0,
+  "unsupported_questions": 0,
+  "supported_average_source_recall": 0.0,
+  "supported_top_source_accuracy": 0.0,
+  "pass_count": 0,
+  "partial_count": 0,
+  "fail_count": 0,
+  "error_count": 12,
+  "note": "Unsupported questions are not scored using source recall because vector search will usually return some nearest chunks. Unsupported behavior should be evaluated with answer/escalation evaluation.",
+  "results": [
+    {
+      "id": "eval_001",
+      "question": "Can I get reimbursed for a home office monitor?",
+      "category": "finance_reimbursement",
+      "expected_behavior": "answer",
+      "expected_sources": [
+        "Finance Reimbursement Policy V1",
+        "Remote Work Policy V1"
+      ],
+      "retrieved_sources": [],
+      "source_recall": null,
+      "matched_sources": [],
+      "top_retrieved_source": null,
+      "status": "error",
+      "error": "[WinError 10061] No connection could be made because the target machine actively refused it"
+    },
+    {
+      "id": "eval_002",
+      "question": "Can company pay for my desk setup?",
+      "category": "finance_reimbursement",
+      "expected_behavior": "answer",
+      "expected_sources": [
+        "Finance Reimbursement Policy V1",
+        "Remote Work Policy V1"
+      ],
+      "retrieved_sources": [],
+      "source_recall": null,
+      "matched_sources": [],
+      "top_retrieved_source": null,
+      "status": "error",
+      "error": "[WinError 10061] No connection could be made because the target machine actively refused it"
+    },
+    {
+      "id": "eval_003",
+      "question": "How quickly should I report a lost company laptop?",
+      "category": "incident_reporting",
+      "expected_behavior": "answer",
+      "expected_sources": [
+        "Device Usage Policy V1",
+        "Incident Reporting Sop V1",
+        "It Security Policy V1"
+      ],
+      "retrieved_sources": [],
+      "source_recall": null,
+      "matched_sources": [],
+      "top_retrieved_source": null,
+      "status": "error",
+      "error": "[WinError 10061] No connection could be made because the target machine actively refused it"
+    },
+    {
+      "id": "eval_004",
+      "question": "Can I store customer data on my personal laptop?",
+      "category": "data_privacy",
+      "expected_behavior": "answer",
+      "expected_sources": [
+        "Data Privacy Policy V1",
+        "Device Usage Policy V1",
+        "It Security Policy V1"
+      ],
+      "retrieved_sources": [],
+      "source_recall": null,
+      "matched_sources": [],
+      "top_retrieved_source": null,
+      "status": "error",
+      "error": "[WinError 10061] No connection could be made because the target machine actively refused it"
+    },
+    {
+      "id": "eval_005",
+      "question": "Do I need manager approval for three days of PTO?",
+      "category": "hr_leave",
+      "expected_behavior": "answer",
+      "expected_sources": [
+        "Hr Leave Policy V1"
+      ],
+      "retrieved_sources": [],
+      "source_recall": null,
+      "matched_sources": [],
+      "top_retrieved_source": null,
+      "status": "error",
+      "error": "[WinError 10061] No connection could be made because the target machine actively refused it"
+    },
+    {
+      "id": "eval_006",
+      "question": "Can I install unapproved software on my company laptop?",
+      "category": "it_security",
+      "expected_behavior": "answer",
+      "expected_sources": [
+        "It Security Policy V1",
+        "Device Usage Policy V1"
+      ],
+      "retrieved_sources": [],
+      "source_recall": null,
+      "matched_sources": [],
+      "top_retrieved_source": null,
+      "status": "error",
+      "error": "[WinError 10061] No connection could be made because the target machine actively refused it"
+    },
+    {
+      "id": "eval_007",
+      "question": "How often should system access be reviewed?",
+      "category": "access_control",
+      "expected_behavior": "answer",
+      "expected_sources": [
+        "Access Control Policy V1"
+      ],
+      "retrieved_sources": [],
+      "source_recall": null,
+      "matched_sources": [],
+      "top_retrieved_source": null,
+      "status": "error",
+      "error": "[WinError 10061] No connection could be made because the target machine actively refused it"
+    },
+    {
+      "id": "eval_008",
+      "question": "When should a new hire complete security awareness training?",
+      "category": "onboarding",
+      "expected_behavior": "answer",
+      "expected_sources": [
+        "Employee Onboarding Guide V1",
+        "It Security Policy V1"
+      ],
+      "retrieved_sources": [],
+      "source_recall": null,
+      "matched_sources": [],
+      "top_retrieved_source": null,
+      "status": "error",
+      "error": "[WinError 10061] No connection could be made because the target machine actively refused it"
+    },
+    {
+      "id": "eval_009",
+      "question": "Can I get reimbursed for alcohol during business travel?",
+      "category": "travel_expense",
+      "expected_behavior": "answer",
+      "expected_sources": [
+        "Travel And Expense Policy V1",
+        "Finance Reimbursement Policy V1"
+      ],
+      "retrieved_sources": [],
+      "source_recall": null,
+      "matched_sources": [],
+      "top_retrieved_source": null,
+      "status": "error",
+      "error": "[WinError 10061] No connection could be made because the target machine actively refused it"
+    },
+    {
+      "id": "eval_010",
+      "question": "Can I use my personal phone to access company systems?",
+      "category": "device_usage",
+      "expected_behavior": "answer",
+      "expected_sources": [
+        "Device Usage Policy V1",
+        "It Security Policy V1",
+        "Access Control Policy V1"
+      ],
+      "retrieved_sources": [],
+      "source_recall": null,
+      "matched_sources": [],
+      "top_retrieved_source": null,
+      "status": "error",
+      "error": "[WinError 10061] No connection could be made because the target machine actively refused it"
+    },
+    {
+      "id": "eval_011",
+      "question": "Does the company provide pet insurance for employees?",
+      "category": "unsupported",
+      "expected_behavior": "escalate",
+      "expected_sources": [],
+      "retrieved_sources": [],
+      "source_recall": null,
+      "matched_sources": [],
+      "top_retrieved_source": null,
+      "status": "error",
+      "error": "[WinError 10061] No connection could be made because the target machine actively refused it"
+    },
+    {
+      "id": "eval_012",
+      "question": "What is the company policy for buying cryptocurrency?",
+      "category": "unsupported",
+      "expected_behavior": "escalate",
+      "expected_sources": [],
+      "retrieved_sources": [],
+      "source_recall": null,
+      "matched_sources": [],
+      "top_retrieved_source": null,
+      "status": "error",
+      "error": "[WinError 10061] No connection could be made because the target machine actively refused it"
+    }
+  ]
+}

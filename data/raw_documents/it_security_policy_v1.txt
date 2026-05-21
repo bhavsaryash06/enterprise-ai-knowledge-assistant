@@ -1,0 +1,231 @@
+================================================================
+NORTHSTAR ANALYTICS GROUP
+INFORMATION TECHNOLOGY SECURITY POLICY
+================================================================
+
+Document ID:      IT-POL-0203
+Department:       Information Technology
+Version:          1.0
+Effective Date:   February 17, 2025
+Owner:            Chief Information Security Officer (CISO)
+Classification:   Internal Use Only
+Related Policies: IT-POL-0211 (Device Usage), IT-POL-0224
+                  (Access Control), SOC-SOP-0418 (Incident
+                  Reporting), DPO-POL-0309 (Data Privacy),
+                  HR-POL-0061 (Remote Work), FIN-POL-0117
+                  (Expense and Reimbursement)
+
+================================================================
+1. PURPOSE
+================================================================
+
+This policy establishes the minimum security standards
+required to protect the confidentiality, integrity, and
+availability of Northstar Analytics Group ("Northstar" or "the
+Company") information systems, data assets, and supporting
+infrastructure. It defines mandatory technical and behavioral
+controls applicable to all personnel and supplements the
+specific procedures defined in the Device Usage Policy
+(IT-POL-0211), Access Control Policy (IT-POL-0224), and
+Incident Reporting Standard Operating Procedure
+(SOC-SOP-0418).
+
+================================================================
+2. SCOPE
+================================================================
+
+This policy applies to all employees, contractors, interns,
+and third parties who access Northstar information systems,
+process Company data, or operate equipment connected to
+Company networks, regardless of work location. It governs all
+Company-owned devices, approved personal devices, cloud
+environments, and on-premises infrastructure. Local statutory
+or regulatory requirements supersede this policy where they
+impose stricter controls.
+
+================================================================
+3. PASSWORD RULES
+================================================================
+
+All passwords used to access Company systems must comply with
+the following standards:
+
+   - Minimum length of 14 characters
+   - At least one uppercase letter, one lowercase letter, one
+     number, and one special character
+   - Must not contain the user's name, username, or any
+     dictionary word longer than 5 characters
+   - Must not reuse any of the previous 12 passwords
+   - Maximum lifetime of 365 days for standard accounts and 90
+     days for privileged accounts
+   - Must be stored only in the Company-approved password
+     manager; storage in browsers, text files, or paper notes
+     is prohibited
+
+Shared accounts are prohibited except in documented service
+account scenarios approved by the Access Control governance
+process (IT-POL-0224, Section 6).
+
+================================================================
+4. MULTI-FACTOR AUTHENTICATION (MFA) REQUIREMENTS
+================================================================
+
+Multi-factor authentication is required for all Company
+systems, including but not limited to corporate email,
+single sign-on, VPN, source code repositories, cloud
+infrastructure consoles, and any system processing customer
+data. Approved authentication factors are: Company-issued
+hardware security keys, the Company-approved mobile
+authenticator application, and platform-bound passkeys on
+managed devices. SMS-based one-time codes are prohibited
+except as a documented temporary fallback authorized by the
+Security Operations Center. Privileged accounts must use a
+hardware security key as the primary factor. Loss of an MFA
+device must be reported immediately to the IT Service Desk so
+the factor can be revoked.
+
+================================================================
+5. APPROVED SOFTWARE RULES
+================================================================
+
+Employees may not install unapproved software on Company
+devices. The current list of approved applications is
+maintained in the Company Software Catalog and is updated
+monthly by IT Architecture. Requests for new software must be
+submitted through the Software Request Portal and require
+review for license compliance, security posture, and data
+handling implications. Browser extensions are treated as
+software and follow the same approval process. Software
+identified as unapproved on a Company device will be removed
+automatically by endpoint management tooling, and repeated
+violations may result in disciplinary action.
+
+================================================================
+6. APPROVED VENDOR RULES
+================================================================
+
+Devices and peripherals that connect to Company systems,
+process Company data, or transmit data over Company networks
+must be purchased from a vendor listed in the current IT
+Vendor Catalog (Appendix B) or be individually approved in
+writing by IT Procurement. This requirement applies regardless
+of funding source, including expense reimbursement under the
+Expense and Reimbursement Policy (FIN-POL-0117, Section 6).
+Cloud and SaaS vendors are subject to a separate vendor risk
+assessment process; no Company data may be transmitted to a
+SaaS vendor that has not completed the assessment and been
+added to the approved SaaS register.
+
+================================================================
+7. DEVICE SECURITY
+================================================================
+
+All devices used to access Company systems must meet the
+following baseline controls:
+
+   - Full-disk encryption enabled
+   - Company-managed endpoint detection and response (EDR)
+     agent installed and active
+   - Operating system and applications patched within 14 days
+     of vendor release for standard patches and 72 hours for
+     critical patches
+   - Screen lock enabled with a maximum 5-minute inactivity
+     timeout
+   - Local administrator privileges restricted to IT-managed
+     accounts
+
+Personal devices, including phones and tablets, require formal
+security approval before they may access Company systems.
+Approved personal devices must be enrolled in the Company
+mobile device management (MDM) platform and are subject to
+remote wipe in the event of loss, theft, or separation.
+Detailed device handling requirements are defined in the
+Device Usage Policy (IT-POL-0211).
+
+================================================================
+8. NETWORK SECURITY
+================================================================
+
+Connections to Company systems from outside a Company facility
+must be established through the Company VPN or an approved
+zero-trust access broker. Public, untrusted, and hotel
+networks may only be used in combination with VPN; direct
+connection to Company resources over such networks is
+prohibited. Personal hotspots are acceptable when other secure
+options are unavailable. Employees may not configure
+unauthorized network equipment, including consumer-grade
+routers or unmanaged switches, to bridge Company devices to
+external networks. Any suspected network compromise must be
+treated as a security incident and reported in accordance with
+Section 10.
+
+================================================================
+9. PHISHING REPORTING
+================================================================
+
+All employees are required to report suspected phishing
+emails using the "Report Phish" button available in the
+Company email client. Suspected phishing must be reported
+within 24 hours of receipt or identification. Employees should
+not forward suspected phishing emails to colleagues, click any
+links, or download any attachments, including for the purpose
+of inspection. Confirmed phishing incidents are tracked by the
+Security Operations Center and contribute to ongoing user
+awareness training assignments.
+
+================================================================
+10. SECURITY INCIDENT REPORTING
+================================================================
+
+A security incident is any event that may compromise the
+confidentiality, integrity, or availability of Company
+information or systems. Examples include lost or stolen
+devices, suspected account compromise, unauthorized data
+disclosure, malware infection, and unauthorized physical
+access to restricted areas. Lost or stolen devices must be
+reported immediately and no later than 1 hour from discovery.
+All other security incidents must be reported within 1 hour
+of discovery to the Security Operations Center via the
+Incident Reporting hotline or portal. Detailed triage,
+containment, and post-incident review steps are defined in
+the Incident Reporting SOP (SOC-SOP-0418). Incidents involving
+personal data are additionally governed by the Data Privacy
+Policy (DPO-POL-0309) and may trigger regulatory notification
+obligations.
+
+================================================================
+11. EXCEPTIONS
+================================================================
+
+Exceptions to this policy may be granted only where a
+documented business need exists and compensating controls are
+in place. All exceptions must be requested through the
+Security Exception Management process and approved by the
+CISO or a delegated authority. Exceptions are time-bound, do
+not exceed 12 months without re-review, and do not establish
+precedent.
+
+================================================================
+12. ESCALATION CONTACT
+================================================================
+
+Questions, disputes, or escalations regarding this policy
+should be directed to:
+
+   Security Operations Center (24x7)
+   Email:    soc@northstaranalytics.com
+   Hotline:  +1 (415) 555-0911
+   Portal:   https://security.northstaranalytics.internal
+   Owner:    Chief Information Security Officer
+
+================================================================
+13. REVISION HISTORY
+================================================================
+
+Version 1.0  |  February 17, 2025  |  Initial publication
+Version 0.6  |  January 22, 2025   |  Final draft for review
+Version 0.2  |  November 5, 2024   |  Architecture review
+
+================================================================
+END OF DOCUMENT - IT-POL-0203
+================================================================

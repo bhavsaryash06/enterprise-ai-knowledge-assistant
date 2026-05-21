@@ -1,0 +1,224 @@
+================================================================
+NORTHSTAR ANALYTICS GROUP
+EMPLOYEE EXPENSE AND REIMBURSEMENT POLICY
+================================================================
+
+Document ID:      FIN-POL-0117
+Department:       Finance
+Version:          1.0
+Effective Date:   February 3, 2025
+Owner:            Vice President of Finance
+Classification:   Internal Use Only
+Related Policies: HR-POL-0042 (Leave), HR-POL-0061 (Remote
+                  Work), IT-POL-0203 (IT Security)
+
+================================================================
+1. PURPOSE
+================================================================
+
+This policy defines the standards under which Northstar
+Analytics Group ("Northstar" or "the Company") reimburses
+employees for business-related expenses incurred in the course
+of their duties. It is intended to provide a consistent,
+auditable, and equitable framework for expense submission,
+approval, and payment, while ensuring fiscal responsibility and
+compliance with applicable tax and accounting requirements.
+This policy works in conjunction with the Remote Work Policy
+(HR-POL-0061) for home office provisioning and with the IT
+Security Policy (IT-POL-0203) for any equipment connected to
+Company systems.
+
+================================================================
+2. SCOPE
+================================================================
+
+This policy applies to all full-time and part-time regular
+employees of Northstar Analytics Group across all global
+offices, including fully remote and hybrid employees.
+Contractors and temporary workers are reimbursed in accordance
+with their engagement agreements and are not covered by this
+policy. Where local statutory or tax requirements provide
+greater employee protection, those requirements take
+precedence.
+
+================================================================
+3. ELIGIBLE EXPENSES
+================================================================
+
+The following categories of expenses are eligible for
+reimbursement when incurred for a legitimate business purpose
+and supported by appropriate documentation: business travel
+including airfare in economy class, ground transportation,
+lodging at standard business-class properties, and per-diem
+meals; client entertainment within published per-person limits;
+professional development including pre-approved training,
+certifications, and conferences; mobile phone and home internet
+stipends for eligible remote employees as defined in
+HR-POL-0061; home office equipment within the limits set in
+Section 5; software subscriptions purchased through the
+Company's approved procurement channels; and business supplies
+required for the performance of assigned duties.
+
+================================================================
+4. NON-ELIGIBLE EXPENSES
+================================================================
+
+The following expenses are not reimbursable under any
+circumstances: personal entertainment including streaming
+services, gaming subscriptions, and recreational memberships;
+luxury upgrades on travel, including first-class airfare,
+premium lodging upgrades, and chauffeur services; alcohol
+purchased outside of approved client entertainment contexts;
+traffic violations, parking fines, and personal insurance
+deductibles; spouse, partner, or family travel expenses; gifts
+to government officials or any expense that may constitute a
+conflict of interest; cosmetic or decorative items for the home
+office; and any equipment purchased outside of IT-approved
+vendor channels where such equipment is intended to connect to
+Company systems (see Section 6 and IT-POL-0203).
+
+================================================================
+5. HOME OFFICE REIMBURSEMENT RULES
+================================================================
+
+Eligible remote and hybrid employees, as defined in the Remote
+Work Policy (HR-POL-0061), may submit reimbursement claims for
+qualifying home office equipment up to the following limits per
+36-month replacement cycle:
+
+   - Monitor:        up to USD 250
+   - Office chair:   up to USD 300
+   - Desk:           up to USD 400
+   - Keyboard/mouse: up to USD 75 combined
+   - Headset:        up to USD 100
+
+All home office equipment purchases require manager approval
+before purchase. Post-purchase submissions without prior
+approval will not be reimbursed except in the documented
+exception cases described in Section 12. Employees should
+retain ownership records; equipment under USD 500 in unit value
+remains the property of the employee, while equipment at or
+above this threshold is recorded as a Company asset and must be
+returned upon separation.
+
+================================================================
+6. EQUIPMENT CONNECTED TO COMPANY SYSTEMS
+================================================================
+
+Any device that connects to Northstar networks, accesses
+Company data, or integrates with Company-managed software must
+be procured through an IT-approved vendor as listed in the
+current IT Vendor Catalog (IT-POL-0203, Appendix B). This
+includes but is not limited to laptops, external storage,
+docking stations, networking hardware, and security
+peripherals. Reimbursement claims for such equipment purchased
+outside the approved vendor list will be denied, regardless of
+prior manager approval. Employees with questions regarding
+vendor eligibility should consult IT Procurement before
+purchase.
+
+================================================================
+7. REQUIRED RECEIPTS
+================================================================
+
+Itemized receipts are required for all expenses of USD 25 or
+more. Receipts must clearly show the vendor name, transaction
+date, itemized purchase details, payment method, and total
+amount. Credit card statements alone are not acceptable as
+substitute documentation. Receipts must be uploaded in PDF or
+high-resolution image format to the Concur Expense system at
+the time of claim submission. Lost receipts may be replaced
+with a signed Missing Receipt Affidavit, limited to two
+occurrences per employee per calendar year.
+
+================================================================
+8. APPROVAL LIMITS
+================================================================
+
+Approval authority is structured as follows:
+
+   - Up to USD 500:            Direct manager
+   - USD 501 to USD 2,500:     Department head
+   - USD 2,501 to USD 10,000:  Vice President of Finance
+   - Over USD 10,000:          Chief Financial Officer
+
+Expenses exceeding USD 500 require department head approval in
+addition to manager approval. Approval thresholds apply to the
+total claim, not individual line items; intentional splitting
+of claims to remain below an approval threshold is a violation
+of this policy and may result in disciplinary action.
+
+================================================================
+9. SUBMISSION DEADLINES
+================================================================
+
+All reimbursement claims must be submitted through the Concur
+Expense system within 30 calendar days of the date the expense
+was incurred. Claims submitted between 31 and 60 days require
+written justification and department head approval. Claims
+submitted beyond 60 days will not be reimbursed except in
+documented exception cases. End-of-fiscal-year expenses
+incurred in December must be submitted no later than January 10
+of the following year to ensure proper accounting period
+recognition.
+
+================================================================
+10. MANAGER APPROVAL RULES
+================================================================
+
+Managers are responsible for reviewing the business purpose,
+reasonableness, and policy compliance of all submitted claims.
+Managers are expected to act on claims within 5 business days
+of submission. Managers may not approve their own expense
+claims; such claims are routed automatically to the next level
+of management. Approval of a claim certifies that the manager
+has reviewed the supporting documentation and confirms the
+expense was incurred for legitimate business purposes.
+
+================================================================
+11. FINANCE REVIEW PROCESS
+================================================================
+
+Following manager approval, the Finance Operations team
+conducts a secondary review of all claims for documentation
+completeness, policy compliance, and accounting accuracy. The
+standard review cycle is 7 business days. Approved claims are
+processed in the next bi-weekly reimbursement run via direct
+deposit. Finance may request additional documentation or
+clarification; claims with outstanding queries are not
+processed until resolved. A monthly audit sample of 5% of
+processed claims is conducted by Internal Audit.
+
+================================================================
+12. EXCEPTIONS
+================================================================
+
+Exceptions to this policy may be granted for documented
+emergencies, regulatory requirements, or extraordinary business
+need. All exceptions must be requested in writing and approved
+by the Vice President of Finance. Exceptions are recorded in
+the Finance exception log and do not establish precedent.
+
+================================================================
+13. ESCALATION CONTACT
+================================================================
+
+Questions, disputes, or escalations regarding this policy
+should be directed to:
+
+   Finance Operations Service Desk
+   Email:   finance-ops@northstaranalytics.com
+   Phone:   +1 (415) 555-0244
+   Owner:   Vice President of Finance
+
+================================================================
+14. REVISION HISTORY
+================================================================
+
+Version 1.0  |  February 3, 2025   |  Initial publication
+Version 0.8  |  January 9, 2025    |  Final draft for review
+Version 0.4  |  November 22, 2024  |  Tax and audit review
+
+================================================================
+END OF DOCUMENT - FIN-POL-0117
+================================================================

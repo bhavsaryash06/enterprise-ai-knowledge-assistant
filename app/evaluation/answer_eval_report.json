@@ -1,0 +1,109 @@
+{
+  "total_questions": 12,
+  "passed_count": 0,
+  "failed_count": 12,
+  "behavior_accuracy": 0.0,
+  "supported_questions": 0,
+  "supported_pass_count": 0,
+  "unsupported_questions": 0,
+  "unsupported_pass_count": 0,
+  "average_answer_point_match_rate": 0.0,
+  "results": [
+    {
+      "id": "eval_001",
+      "question": "Can I get reimbursed for a home office monitor?",
+      "category": "finance_reimbursement",
+      "expected_behavior": "answer",
+      "passed": false,
+      "error": "[WinError 10061] No connection could be made because the target machine actively refused it"
+    },
+    {
+      "id": "eval_002",
+      "question": "Can company pay for my desk setup?",
+      "category": "finance_reimbursement",
+      "expected_behavior": "answer",
+      "passed": false,
+      "error": "[WinError 10061] No connection could be made because the target machine actively refused it"
+    },
+    {
+      "id": "eval_003",
+      "question": "How quickly should I report a lost company laptop?",
+      "category": "incident_reporting",
+      "expected_behavior": "answer",
+      "passed": false,
+      "error": "[WinError 10061] No connection could be made because the target machine actively refused it"
+    },
+    {
+      "id": "eval_004",
+      "question": "Can I store customer data on my personal laptop?",
+      "category": "data_privacy",
+      "expected_behavior": "answer",
+      "passed": false,
+      "error": "[WinError 10061] No connection could be made because the target machine actively refused it"
+    },
+    {
+      "id": "eval_005",
+      "question": "Do I need manager approval for three days of PTO?",
+      "category": "hr_leave",
+      "expected_behavior": "answer",
+      "passed": false,
+      "error": "[WinError 10061] No connection could be made because the target machine actively refused it"
+    },
+    {
+      "id": "eval_006",
+      "question": "Can I install unapproved software on my company laptop?",
+      "category": "it_security",
+      "expected_behavior": "answer",
+      "passed": false,
+      "error": "[WinError 10061] No connection could be made because the target machine actively refused it"
+    },
+    {
+      "id": "eval_007",
+      "question": "How often should system access be reviewed?",
+      "category": "access_control",
+      "expected_behavior": "answer",
+      "passed": false,
+      "error": "[WinError 10061] No connection could be made because the target machine actively refused it"
+    },
+    {
+      "id": "eval_008",
+      "question": "When should a new hire complete security awareness training?",
+      "category": "onboarding",
+      "expected_behavior": "answer",
+      "passed": false,
+      "error": "[WinError 10061] No connection could be made because the target machine actively refused it"
+    },
+    {
+      "id": "eval_009",
+      "question": "Can I get reimbursed for alcohol during business travel?",
+      "category": "travel_expense",
+      "expected_behavior": "answer",
+      "passed": false,
+      "error": "[WinError 10061] No connection could be made because the target machine actively refused it"
+    },
+    {
+      "id": "eval_010",
+      "question": "Can I use my personal phone to access company systems?",
+      "category": "device_usage",
+      "expected_behavior": "answer",
+      "passed": false,
+      "error": "[WinError 10061] No connection could be made because the target machine actively refused it"
+    },
+    {
+      "id": "eval_011",
+      "question": "Does the company provide pet insurance for employees?",
+      "category": "unsupported",
+      "expected_behavior": "escalate",
+      "passed": false,
+      "error": "[WinError 10061] No connection could be made because the target machine actively refused it"
+    },
+    {
+      "id": "eval_012",
+      "question": "What is the company policy for buying cryptocurrency?",
+      "category": "unsupported",
+      "expected_behavior": "escalate",
+      "passed": false,
+      "error": "[WinError 10061] No connection could be made because the target machine actively refused it"
+    }
+  ]
+}
