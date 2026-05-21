@@ -20,6 +20,29 @@ Example questions:
 
 The system is designed to avoid unsupported answers. If policy evidence is weak, it returns a low-confidence escalation response instead of hallucinating.
 
+
+## Screenshots
+
+### Streamlit Question Answering UI
+
+![Streamlit Answer](screenshots/streamlit-answer.png)
+
+### Source Citations
+
+![Source Citations](screenshots/streamlit-sources.png)
+
+### Retrieved Chunks
+
+![Retrieved Chunks](screenshots/streamlit-retrieved-chunks.png)
+
+### Document Upload
+
+![Document Upload](screenshots/document-upload.png)
+
+### Registered Documents and Processing
+
+![Registered Documents](screenshots/registered-documents.png)
+
 ---
 
 ## Key Features
